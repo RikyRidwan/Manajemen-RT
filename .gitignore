@@ -1,0 +1,6 @@
+config/database.php
+assets/uploads/bukti/
+assets/uploads/logo/
+.vscode/
+.idea/
+*.log
